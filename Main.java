@@ -116,7 +116,7 @@ public class Main {
                 }
                 break;
 
-            case "north":
+            case "go north":
                 if (door1open) {
                     Foyer = false;
                     Library = true;
