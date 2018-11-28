@@ -12,7 +12,7 @@ You now have a box of matches. You have 27 moves left.
 The candle is lit. You just heard a metal grinding sound coming from the north. You have 26 moves left.
 >>open door
 The north door is open. You have 25 moves left.
->>north
+>>go north
 You have left the foyer. On your way out, the door slammed and locked. You are now in the library and cannot return to the foyer. In the library there are stacks of books lining the shelves, a desk, a pen, and a scroll. There is another locked door to the north. You have 24 moves left.
 >>get pen
 You have acquired the pen. You have 23 moves left.
